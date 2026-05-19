@@ -224,7 +224,7 @@ body {
   display: grid;
   gap: 64px 16px;
   width: 2000px;
-  padding: 64px 8px;
+  padding: 64px 48px;
   background: white;
   min-height: 439px;
 }

@@ -84,7 +84,7 @@ function App() {
   };
 
   const filteredFood = foodData.filter(food => food.category === activeCategory);
-  const itemWidth = columnCount === 5 ? 384 : 484;
+  const itemWidth = columnCount === 5 ? 368 : 464;
 
   return (
     <div className="app-container">
