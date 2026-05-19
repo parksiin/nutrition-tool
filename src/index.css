@@ -222,7 +222,7 @@ body {
 
 .canvas-grid {
   display: grid;
-  gap: 16px;
+  gap: 64px 16px;
   width: 2000px;
   padding: 8px;
   background: white;
